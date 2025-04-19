@@ -50,7 +50,7 @@ This project allows users to **predict the price of a house in Bengaluru** based
 ## ⚙️ How to Run Locally
 
 1. Clone the Repository:
-   git clone https://github.com/yourusername/Real-Estate-Price-Prediction-in-Bengluru.git
+   git clone https://github.com/AtharvaKhismatrao/Real-Estate-Price-Prediction-in-Bengluru.git
    cd Real-Estate-Price-Prediction-in-Bengluru
    
 2. Create Virtual Environment (Optional but Recommended):
