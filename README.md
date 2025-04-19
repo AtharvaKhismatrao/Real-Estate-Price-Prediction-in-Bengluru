@@ -2,8 +2,8 @@
 
 This project allows users to **predict the price of a house in Bengaluru** based on key features such as location, area (in square feet), number of bathrooms, and BHK configuration. It's a simple yet powerful web-based machine learning application aimed at helping users make informed real estate decisions.
 
-![App Screenshot - Input Form](https://github.com/YourUsername/Real-Estate-Price-Prediction-in-Bengluru/assets/your_screenshot_1.png)
-![App Screenshot - Prediction Result](https://github.com/YourUsername/Real-Estate-Price-Prediction-in-Bengluru/assets/your_screenshot_2.png)
+![App Screenshot - Input Form](images/image1.png)
+![App Screenshot - Prediction Result](images/image.png)
 
 ---
 
