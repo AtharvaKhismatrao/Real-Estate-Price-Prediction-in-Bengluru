@@ -92,7 +92,7 @@ Bathrooms: 3
 - Add location auto-complete using Google Maps API.
 - Add more advanced ML models (Random Forest, XGBoost, etc.)
 - Deployment on cloud platform like Heroku or AWS.
-- Add historical pricing trends for visual analysis...
+- Add historical pricing trends for visual analysis.
 
 ---
 
