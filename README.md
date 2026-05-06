@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-Backend-black)
+![Machine Learning](https://img.shields.io/badge/ML-ScikitLearn-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🏠 Real Estate Price Prediction in Bengaluru
 
 This project allows users to **predict the price of a house in Bengaluru** based on key features such as location, area (in square feet), number of bathrooms, and BHK configuration. It's a simple yet powerful web-based machine learning application aimed at helping users make informed real estate decisions.
@@ -99,7 +104,7 @@ Bathrooms: 3
 ## 📄 License
 
 This project is licensed under the MIT License.
-Developed with ❤️ by Atharva Khismatrao.
+.
 
 ---
 
